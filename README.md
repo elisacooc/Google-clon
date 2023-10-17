@@ -1,7 +1,7 @@
 #Clon de Google
 Proyecto creado en **Tecnolochicas Pro** simulando la página principal del navegador de Google
 *****
-Poniendo en practica lo aprendido en el bootcamp logré realizar un clon del explorador fe Google.
+Poniendo en practica lo aprendido en el bootcamp logré realizar un clon del explorador de Google.
 ## 1. Intro
 El proyecto fue creado con **HTML Y CSS**. Se trata del navegador más usado: la interfaz de Google
 * Puedes visitar el sitio de el siguiente enlace 
